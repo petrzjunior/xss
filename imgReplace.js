@@ -6,3 +6,4 @@ function replace() {
   }
 }
 document.addEventListener('DOMContentLoaded', replace);
+replace();
